@@ -1,0 +1,11 @@
+1. Validation Form Using Formik and yop
+2. React Optimization  using memo and callback
+3. theme Implemantation for custamize design 
+4. Responsive Design for componant  based on Theme breakPont
+5. Code Optimization 
+6. Redux Architracture Optimization;
+7. Backend Implemantation Using Express and mongo
+8. Security in Application. 
+9. work on design
+10. Avoid animation 
+

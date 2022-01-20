@@ -1,0 +1,184 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "learn React",
+      "stage": 3,
+      "created_at": "2022-01-12T22:37:38+05:30",
+      "created_by": "ravalravi103",
+      "updated_at": "2022-01-12T22:37:38+05:30",
+      "id": 2
+    },
+    {
+      "name": "learn mongo",
+      "stage": 3,
+      "created_at": "2022-01-12T22:37:55+05:30",
+      "created_by": "ravalravi103",
+      "updated_at": "2022-01-12T22:37:55+05:30",
+      "id": 3
+    },
+    {
+      "name": "learn node js",
+      "stage": 2,
+      "created_at": "2022-01-12T22:38:08+05:30",
+      "created_by": "ravalravi103",
+      "updated_at": "2022-01-12T22:38:08+05:30",
+      "id": 4
+    },
+    {
+      "name": "learn aws",
+      "stage": 1,
+      "created_at": "2022-01-12T22:38:29+05:30",
+      "created_by": "ravalravi103",
+      "updated_at": "2022-01-12T22:38:29+05:30",
+      "id": 5
+    },
+    {
+      "name": "learn angular",
+      "stage": 2,
+      "created_at": "2022-01-12T22:38:37+05:30",
+      "created_by": "ravalravi103",
+      "updated_at": "2022-01-12T22:38:37+05:30",
+      "id": 6
+    },
+    {
+      "name": "learn graphql",
+      "stage": 0,
+      "created_at": "2022-01-12T22:39:04+05:30",
+      "created_by": "ravalravi103",
+      "updated_at": "2022-01-12T22:39:04+05:30",
+      "id": 7
+    },
+    {
+      "name": "learn nextjs",
+      "stage": 0,
+      "created_at": "2022-01-12T22:39:12+05:30",
+      "created_by": "ravalravi103",
+      "updated_at": "2022-01-12T22:39:12+05:30",
+      "id": 8
+    },
+    {
+      "name": "learn vuejs",
+      "stage": 1,
+      "created_at": "2022-01-12T22:39:21+05:30",
+      "created_by": "ravalravi103",
+      "updated_at": "2022-01-12T22:39:21+05:30",
+      "id": 9
+    },
+    {
+      "name": "create movie with salmankhan",
+      "stage": 2,
+      "created_at": "2022-01-12T22:40:18+05:30",
+      "created_by": "rasmika103",
+      "updated_at": "2022-01-12T22:40:18+05:30",
+      "id": 10
+    },
+    {
+      "name": "create moview with srk",
+      "stage": 2,
+      "created_at": "2022-01-12T22:40:28+05:30",
+      "created_by": "rasmika103",
+      "updated_at": "2022-01-12T22:40:28+05:30",
+      "id": 11
+    },
+    {
+      "name": "create moview with ranveer",
+      "stage": 3,
+      "created_at": "2022-01-12T22:40:37+05:30",
+      "created_by": "rasmika103",
+      "updated_at": "2022-01-12T22:40:37+05:30",
+      "id": 12
+    },
+    {
+      "name": "create movie with ram charan",
+      "stage": 3,
+      "created_at": "2022-01-12T22:40:51+05:30",
+      "created_by": "rasmika103",
+      "updated_at": "2022-01-12T22:40:51+05:30",
+      "id": 13
+    },
+    {
+      "name": "create movie with allu arjun",
+      "stage": 1,
+      "created_at": "2022-01-12T22:41:01+05:30",
+      "created_by": "rasmika103",
+      "updated_at": "2022-01-12T22:41:01+05:30",
+      "id": 14
+    },
+    {
+      "name": "create movie with vijay",
+      "stage": 1,
+      "created_at": "2022-01-12T22:41:11+05:30",
+      "created_by": "rasmika103",
+      "updated_at": "2022-01-12T22:41:11+05:30",
+      "id": 15
+    },
+    {
+      "name": "create movie with sanny devol",
+      "stage": 0,
+      "created_at": "2022-01-12T22:41:40+05:30",
+      "created_by": "rasmika103",
+      "updated_at": "2022-01-12T22:41:40+05:30",
+      "id": 16
+    },
+    {
+      "name": "create Movie with ajay devgan ",
+      "stage": 0,
+      "created_at": "2022-01-12T22:41:52+05:30",
+      "created_by": "rasmika103",
+      "updated_at": "2022-01-12T22:41:52+05:30",
+      "id": 17
+    },
+    {
+      "name": "learn node js",
+      "stage": 0,
+      "created_at": "2022-01-13T17:14:44+05:30",
+      "created_by": "neosoft103",
+      "updated_at": "2022-01-13T17:14:44+05:30",
+      "id": 18
+    },
+    {
+      "name": "learn next js",
+      "stage": 1,
+      "created_at": "2022-01-13T17:14:55+05:30",
+      "created_by": "neosoft103",
+      "updated_at": "2022-01-13T17:14:55+05:30",
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "email": "ravalravi103@gmail.com",
+      "password": "$2a$10$BvKT1Aa/n53jrFUJvI0mm.59.68aW5R4waeeZWLaXBqCPMBjl98Dy",
+      "userName": "ravalravi103",
+      "contactNumber": "7400313725",
+      "profile_pic": "http://res.cloudinary.com/dei4oonwk/image/upload/v1642007247/ik2ucwnipnnhx3wne22f.jpg",
+      "id": 2
+    },
+    {
+      "email": "rasmika@gmail.com",
+      "password": "$2a$10$LMGJWILNtWWM2zROsPhzuORvDWNled04FV0NCqEHaRN8Qe06SnJPK",
+      "userName": "rasmika103",
+      "contactNumber": "7400313725",
+      "profile_pic": "http://res.cloudinary.com/dei4oonwk/image/upload/v1642007397/qzlpnm79lpf95jlmoqgj.jpg",
+      "id": 3
+    },
+    {
+      "email": "neosoft103@gmail.com",
+      "password": "$2a$10$cChlYammdYNlyE/xzRKiKe40SSm3IpYcEyrMAdCEErKYzZ.834opu",
+      "userName": "neosoft103",
+      "contactNumber": "7400313725",
+      "profile_pic": "http://res.cloudinary.com/dei4oonwk/image/upload/v1642074193/vv1ycvwqis3gxnepoysa.jpg",
+      "id": 4
+    }
+  ]
+}
